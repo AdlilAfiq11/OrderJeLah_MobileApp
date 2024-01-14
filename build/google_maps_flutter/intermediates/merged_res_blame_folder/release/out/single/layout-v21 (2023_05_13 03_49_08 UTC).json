@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

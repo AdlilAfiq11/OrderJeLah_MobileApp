@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\corner.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\pay_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\pay_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\pay_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\pay_android\\intermediates\\res\\merged\\release\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\31ecf43b4cb3a39b81b659ed87534649\\jetified-play-services-wallet-18.1.2\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\pay_android\\intermediates\\res\\merged\\release\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\31ecf43b4cb3a39b81b659ed87534649\\jetified-play-services-wallet-18.1.2\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    }
+]

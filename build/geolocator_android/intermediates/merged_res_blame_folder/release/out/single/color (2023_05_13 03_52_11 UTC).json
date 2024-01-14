@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\80bcf393d80ab1794ab2ff8e0b6daced\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

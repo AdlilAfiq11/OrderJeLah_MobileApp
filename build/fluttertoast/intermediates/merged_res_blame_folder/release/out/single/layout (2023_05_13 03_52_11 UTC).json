@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\toast_custom.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\layout\\toast_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\fyp2\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\cc99b84ea0205e0c49bd5f1c93cd4d59\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]

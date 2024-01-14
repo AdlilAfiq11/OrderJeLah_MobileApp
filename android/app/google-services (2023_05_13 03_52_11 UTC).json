@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647427196633",
+    "firebase_url": "https://orderjelah-db732-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "orderjelah-db732",
+    "storage_bucket": "orderjelah-db732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647427196633:android:1db50f77fbf34424a0a0c8",
+        "android_client_info": {
+          "package_name": "com.example.fyp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647427196633-ibk9btvevqiojgsi615aenk1v6tc7sg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AysAIjBbTySgmcAl7qcXb9ZQ7WCxyiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647427196633-ibk9btvevqiojgsi615aenk1v6tc7sg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
